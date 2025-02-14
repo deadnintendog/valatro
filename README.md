@@ -13,3 +13,5 @@ once all 5 cards are displayed and read "HAPPY," an invisible object is set to m
 once thie object finishes moving, the cards change to read "VALENTINE'S."
 
 this process is then repeated along the y-axis, and the cards change to read "DAY" with the card back in the 1st and 5th positions.
+
+https://github.com/user-attachments/assets/cf7e751a-2637-47fd-9937-e463e8986772
